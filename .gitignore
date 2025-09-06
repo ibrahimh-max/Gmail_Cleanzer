@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+
+# Google Apps Script config (keep your local scriptId private)
+.clasp.json
