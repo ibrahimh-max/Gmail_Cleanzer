@@ -1,5 +1,4 @@
-# Gmail_Cleanzer
-# Gmail Cleaner 🚀
+# Gmail Cleanzer 🚀
 
 Delete unnecessary and unwanted emails (Promotions, Social, Updates) in one go using Google Apps Script.
 
